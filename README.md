@@ -2,7 +2,7 @@
 
 ## Download
 
-[Download the latest release](https://github.com/yourusername/Spiderman-Ultimate/releases/latest)
+[Download the latest release](https://github.com/mashrur-rahman-fahim/Spiderman-Ultimate-Game/releases/latest)
 
 ---
 
